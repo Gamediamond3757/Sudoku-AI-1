@@ -1,4 +1,4 @@
-[Sudoku-AI](https://sudoku-smasher.herokuapp.com/)
+[Sudoku-AI](https://sudoku-ai-1.herokuapp.com/)
 ==================================================
 
 [![Build Status](https://travis-ci.org/JPStrydom/Sudoku-AI.svg?branch=master)](https://travis-ci.org/JPStrydom/Sudoku-AI)
@@ -13,7 +13,7 @@ This is a simple React web-application that solve custom Sudoku puzzles. Users c
 
 ## Links 
 
-- The web-application can be visited [here](https://sudoku-smasher.herokuapp.com/)
+- The web-application can be visited [here](https://sudoku-ai-1.herokuapp.com/)
 - The project's GitHub repository can be found [here](https://github.com/JPStrydom/Sudoku-AI)
 - A guide on how to play Sudoku can be found [here](http://www.playsudoku.eu/sudoku-rules)
 - An awesome free web-application hosting platform called Heroku can be found [here](https://www.heroku.com/)
